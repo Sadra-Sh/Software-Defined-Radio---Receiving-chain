@@ -21,7 +21,7 @@ The PCB design for the receiving chain of the SDR was carefully crafted to ensur
 
 ## Team Contributions
 - **Sadra**: Responsible for the Gilbert Cell Mixer design, and the fail safe mixer IC. Component placement and routing of the mixers, as well as board manufacturing and testing.
-- **Shayan**: Responsible for the Bandpass filter and voltage limtier, component placement and routing, and board manufacturing and testing. 
+- **Saleh**: Responsible for the Bandpass filter and voltage limtier, component placement and routing, and board manufacturing and testing. 
 - **Junyi**: Responsible for the Lowpass filter and Amplifier, component placement and routing, board testing and layout verification.
 
 ## Project Status
