@@ -1,7 +1,7 @@
 # Software Defined Radio (SDR) Project
 
 ## Introduction
-This project focuses on the development of the RF front-end of a Software Defined Radio (SDR). The RF front-end is responsible for receiving radio frequency signals picked up by the antenna and preparing them for further processing. This README provides an overview of the PCB design for the receiving chain of the SDR.
+This project focuses on the development of the receiving chain of a Software Defined Radio (SDR). The receiving end is responsible for receiving radio frequency signals picked up by the antenna and preparing them for further processing. This README provides an overview of the PCB design for the receiving chain of the SDR.
 
 ## Receiving Chain Overview
 The receiving chain of the SDR consists of several key components that work together to process incoming signals:
