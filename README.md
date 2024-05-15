@@ -41,14 +41,13 @@ For questions or inquiries about the project, please contact me at sadra.shirdar
 **REV 2.0** 
 <img width="973" alt="image" src="https://github.com/Sadra-Sh/Software-Defined-Radio---Receiving-chain/assets/143111135/3cc07a7c-5ce3-453b-a26d-b86171e368a6">
 
-**Final Schematic**
+**Final Schematics and PCB**
 <img width="953" alt="image" src="https://github.com/Sadra-Sh/Software-Defined-Radio---Receiving-chain/assets/143111135/6db08808-1e55-4984-a861-44bc8379abc9">
 <img width="1022" alt="image" src="https://github.com/Sadra-Sh/Software-Defined-Radio---Receiving-chain/assets/143111135/f6d1f7c3-ae4a-4290-956d-c08f747544f2">
 <img width="709" alt="image" src="https://github.com/Sadra-Sh/Software-Defined-Radio---Receiving-chain/assets/143111135/cd9291cd-f1ef-4c18-a766-3a93ddf59253">
 <img width="831" alt="image" src="https://github.com/Sadra-Sh/Software-Defined-Radio---Receiving-chain/assets/143111135/ba99bc4e-000d-42bf-9e6a-d7c0402c5dda">
 <img width="823" alt="image" src="https://github.com/Sadra-Sh/Software-Defined-Radio---Receiving-chain/assets/143111135/6f69947c-d871-4904-8954-9f1e323db148">
-
-
+<img width="883" alt="Screenshot 2024-05-15 at 1 47 33 PM" src="https://github.com/Sadra-Sh/Software-Defined-Radio-Receiving-chain/assets/143111135/e2c391e0-6143-4788-a847-c45353f65424">
 
 
 
